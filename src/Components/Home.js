@@ -58,9 +58,9 @@ function home() {
           Civil Engineering of Government College of Engineering, Salem. It
           takes you on a complete ride to technical extravaganza. It provides
           the perfect platform to expose the technical acumen and compete with
-          peers from various institutes. Above all synergy serves well in
-          synchronizing the energy of electrical engineers to light up the
-          world. The destined date is April 22. We invite the students from
+          peers from various institutes. Above all technoblaze serves well in
+          synchronizing the energy of civil engineers to light up the
+          world. The destined date is April 18 & 19. We invite the students from
           various colleges to expose their skills.
         </p>
       </div>
