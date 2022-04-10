@@ -18,7 +18,7 @@ function home() {
         <h5 className="">DEPARTMENT OF CIVIL ENGINEERING</h5>
         <div className="info__logos">
           <img
-            // className="remove"
+            className="remove"
             alt=""
             src="assets/cilogo.png"
             style={{ height: "150px", width: "150px" }}
