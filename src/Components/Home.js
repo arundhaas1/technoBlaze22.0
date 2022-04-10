@@ -42,7 +42,7 @@ function home() {
           />
         </div>
         <p>
-          Registeration Ends On <span>19th April</span>
+          Registration Ends On <span>19th April</span>
         </p>
       </div>
 
