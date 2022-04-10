@@ -13,7 +13,7 @@ function Header() {
 
     <div className="home__header">
       <div className="header__logo">
-        <img alt="" src="assets/tblogo.jpg" />
+        <img alt="" src="assets/cilogo.png" />
       </div>
       <div className="header__nav">
         <Link className="header__p" to="/">
