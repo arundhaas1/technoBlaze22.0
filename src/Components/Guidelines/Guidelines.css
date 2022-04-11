@@ -1,0 +1,11 @@
+.event__g {
+  display: flex;
+  justify-content: center;
+  font-style: italic;
+  font-size: xx-large;
+  color: rgb(133, 128, 133);
+  border-bottom: 1px solid rgb(116, 112, 112);
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
