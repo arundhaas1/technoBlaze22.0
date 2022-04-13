@@ -44,7 +44,7 @@ function Footer() {
           </a>
         </div>
         <p className="credits">
-          © <span>P</span>ROFI <span>E</span>PITO
+          © <span>P</span>ROFI <span>E</span>PITOK
         </p>
       </div>
     </div>
